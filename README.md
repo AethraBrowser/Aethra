@@ -113,7 +113,7 @@ If you’re interested in helping:
 
 ## 📜 License
 
-Aethra Browser is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [LICENSE](https://www.apache.org/licenses/LICENSE-2.0) for details.
+Aethra Browser is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [LICENSE](https://github.com/AethraBrowser/Aethra?tab=Apache-2.0-1-ov-file) for details.
 
 ---
 
